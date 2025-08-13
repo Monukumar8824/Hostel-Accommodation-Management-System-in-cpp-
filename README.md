@@ -17,7 +17,6 @@ This system uses **binary file handling** to ensure **fast, secure, and efficien
 ---
 
 ## 🚀 Features  
--✔ **User Management** – Add, view, update, and delete user records.
 -✔ **Student Management** – Add, view, update, and delete student records. 
 -✔ **Room Allocation** – Assign and deallocate rooms with capacity checks.  
 -✔ **Fee Management** – Track paid and due fees, generate detailed fee reports.  
