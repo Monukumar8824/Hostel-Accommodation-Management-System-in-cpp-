@@ -42,7 +42,7 @@ HostelProject/
 ├── *.dat             # Binary files for persistent data storage
 └── *.exe             # Compiled Windows executables
 ---
-
+```
 ## 🎯 Learning Outcomes  
 - Real-world **OOP (Object-Oriented Programming)** implementation in C++.  
 - Mastery of **file I/O** using binary data storage.  
@@ -51,7 +51,7 @@ HostelProject/
 
 ---
 
-```
+
 ## 🛠️ Tech Stack  
 - **Language:** C++  
 - **Storage:** Binary file handling  
