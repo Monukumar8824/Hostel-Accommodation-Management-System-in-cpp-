@@ -41,4 +41,14 @@ HostelProject/
 ├── main.cpp          # Main application entry point
 ├── *.dat             # Binary files for persistent data storage
 └── *.exe             # Compiled Windows executables
-
+#🎯 Learning Outcomes
+Real-world OOP implementation
+Mastery of file I/O in C++
+Building scalable & modular codebases
+Handling user input and validations
+#🛠️ Tech Stack
+Language: C++
+Storage: Binary file handling
+Interface: Command-line
+#💬 Feedback Welcome!
+Fork the repo, give it a ⭐, or suggest improvements. This is just the beginning — more features coming soon.
