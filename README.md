@@ -27,7 +27,10 @@ This system uses **binary file handling** to ensure **fast, secure, and efficien
 
 ---
 
-# HostelProject/
+## 📂 Project Structure
+
+```plaintext
+HostelProject/
 ├── Fee.h             # Header for the fee management module
 ├── Fee.cpp           # Source for the fee management module
 ├── Room.h            # Header for room allocation and capacity logic
@@ -37,5 +40,5 @@ This system uses **binary file handling** to ensure **fast, secure, and efficien
 ├── management.cpp    # Handles the main menu and user navigation
 ├── main.cpp          # Main application entry point
 ├── *.dat             # Binary files for persistent data storage
-└── *.exe             # Compiled Windows executable
+└── *.exe             # Compiled Windows executables
 
