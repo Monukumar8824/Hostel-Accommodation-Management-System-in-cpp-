@@ -3,7 +3,8 @@
 ---
 
 ## 📌 Overview  
-The **Hostel Accommodation Management System** is a **C++ console-based application** designed to streamline hostel operations such as:  
+The **Hostel Accommodation Management System** is a **C++ console-based application** designed to streamline hostel operations such as: 
+- **User Management**
 - **Student Management**  
 - **Room Allocation**  
 - **Fee Tracking**  
@@ -16,7 +17,8 @@ This system uses **binary file handling** to ensure **fast, secure, and efficien
 ---
 
 ## 🚀 Features  
-✔ **Student Management** – Add, view, update, and delete student records.  
+✔ **User Management** – Add, view, update, and delete user records.
+✔ **Student Management** – Add, view, update, and delete student records. 
 ✔ **Room Allocation** – Assign and deallocate rooms with capacity checks.  
 ✔ **Fee Management** – Track paid and due fees, generate detailed fee reports.  
 ✔ **Visitor Management** – Record visitor details and logs.  
