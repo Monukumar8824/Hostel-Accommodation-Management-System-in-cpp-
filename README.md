@@ -51,6 +51,7 @@ HostelProject/
 
 ---
 
+```
 ## 🛠️ Tech Stack  
 - **Language:** C++  
 - **Storage:** Binary file handling  
