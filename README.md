@@ -10,7 +10,8 @@ The **Hostel Accommodation Management System** is a **C++ console-based applicat
 - **Fee Tracking**  
 - **Visitor Logs**  
 - **Security Monitoring**  
-- **Mess Menu Management**  
+- **Mess Menu Management**
+-  **Admin & Student Login System**
 
 This system uses **binary file handling** to ensure **fast, secure, and efficient data storage**.
 
@@ -26,7 +27,8 @@ This system uses **binary file handling** to ensure **fast, secure, and efficien
 - ✔ **Security Module** – Maintain security staff records and track entries/exits.  
 - ✔ **Mess Menu** – Store and display daily/weekly menu plans.  
 - ✔ **Persistent Storage** – All records are stored in `.dat` **binary files**.  
-- ✔ **User-Friendly Interface** – Console menus with clear navigation.
+- ✔ **User-Friendly Interface** – Console menus with clear navigation.  
+- ✔ **Admin & Student Login System** – Secure login with **password masking** for privacy.
 
 ---
 
