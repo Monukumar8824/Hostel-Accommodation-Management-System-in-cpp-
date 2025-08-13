@@ -81,14 +81,14 @@ static  bool studentexists(const char* id) {
         cout << "Add Visitor\n";
         v.input();
     if (!studentexists(v.id)) {
-    cout << "Student ID not found. so you can not meet from Student.\n";
+    cout << "Student ID not found. so you can not meet from that Student.\n";
     return;
     }
 
         f.open("Visitor_test.dat", ios::app | ios::binary );
         f.write((char*)&v, sizeof(v));
         f.close();
-        cout <<"Visitor ID:-  "<< v.id << "  Now yo can meet from student..\n";
+        cout <<"Visitor ID:-  "<< v.id << "  Now you can meet from student..\n";
 
     }
 
@@ -268,4 +268,5 @@ void visitorManagementMenu() {
 };
 
 #endif
+
 
