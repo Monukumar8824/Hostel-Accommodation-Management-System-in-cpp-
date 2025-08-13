@@ -17,15 +17,15 @@ This system uses **binary file handling** to ensure **fast, secure, and efficien
 ---
 
 ## 🚀 Features  
-✔ **User Management** – Add, view, update, and delete user records.
-✔ **Student Management** – Add, view, update, and delete student records. 
-✔ **Room Allocation** – Assign and deallocate rooms with capacity checks.  
-✔ **Fee Management** – Track paid and due fees, generate detailed fee reports.  
-✔ **Visitor Management** – Record visitor details and logs.  
-✔ **Security Module** – Maintain security staff records and track entries/exits.  
-✔ **Mess Menu** – Store and display daily/weekly menu plans.  
-✔ **Persistent Storage** – All records are stored in `.dat` **binary files**.  
-✔ **User-Friendly Interface** – Console menus with clear navigation.
+-✔ **User Management** – Add, view, update, and delete user records.
+-✔ **Student Management** – Add, view, update, and delete student records. 
+-✔ **Room Allocation** – Assign and deallocate rooms with capacity checks.  
+-✔ **Fee Management** – Track paid and due fees, generate detailed fee reports.  
+-✔ **Visitor Management** – Record visitor details and logs.  
+-✔ **Security Module** – Maintain security staff records and track entries/exits.  
+-✔ **Mess Menu** – Store and display daily/weekly menu plans.  
+-✔ **Persistent Storage** – All records are stored in `.dat` **binary files**.  
+-✔ **User-Friendly Interface** – Console menus with clear navigation.
 
 ---
 
