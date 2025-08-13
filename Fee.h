@@ -18,7 +18,7 @@
 #include "Room.h"
 
 
-#define n 40
+#define n 40 // n is defined as number of rooms in the hostel and we can change it accordingly
 using namespace std;
 
 int Room::arr[n];
@@ -355,3 +355,4 @@ class Fee {
 };
 
 #endif
+
