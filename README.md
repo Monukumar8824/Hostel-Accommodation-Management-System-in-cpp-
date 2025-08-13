@@ -27,7 +27,7 @@ This system uses **binary file handling** to ensure **fast, secure, and efficien
 
 ---
 
- HostelProject/
+# HostelProject/
 ├── Fee.h             # Header for the fee management module
 ├── Fee.cpp           # Source for the fee management module
 ├── Room.h            # Header for room allocation and capacity logic
